@@ -1,13 +1,36 @@
 body{
-    background-color: rgb(52, 44, 92);
+    background-color: rgb(14, 243, 117);
+    color: #222222;
+    font-family: Arial, sans-serif;
+    margin: 0;
 }
 header{
-   background-color: darkmagenta; 
+    background-color: rgb(4, 32, 65);
 }
 main{
-    background-color: rgb(43, 171, 221);
+    background-color: rgb(253, 28, 197);
 }
 section{
-   background-color: rgb(19, 87, 151); 
+    background-color: blueviolet;
+}
+Style
+body {
+    background-color: #a0ec11;
+    color: #7fecc2;
+    font-family: Arial, sans-serif;
 }
 
+header {
+    background-color: #eb30bc;
+    color: rgb(21, 137, 214);
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: #f51cbf;
+}
