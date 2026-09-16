@@ -1,11 +1,15 @@
-const botao = document. queryselector("#botaoMensagem");
-const mensagem =document.queryselector("#mensagemIntera
-    botao.addEventListener("click", mostrarmensagem);
-    function mostrarmensagem(){
-        mensagem.textcontent =
-        "voce acabou de criar uma interacao com javascri"
-        
+const botoesCurtir = document. querySelectorAll(".curtir");
+ botoesCurtir.forEach(function(botoesCurtir){
+let curtiu = false;
+botaoCuurtir.addEventListener("click" , curtir);
+function curtir(){
+    const cantador = botaoCuurtir . queryselector("span");
+    if (curtiu === false){
+        contador . textContent++;
+        curtiu = true;}
+        else{
+            contador . textContent--;
+            curtiu = false;
         }
-
     
-       
+
