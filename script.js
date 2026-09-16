@@ -4,6 +4,8 @@ const mensagem =document.queryselector("#mensagemIntera
     function mostrarmensagem(){
         mensagem.textcontent =
         "voce acabou de criar uma interacao com javascri"
+        
+        }
 
     
        
