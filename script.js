@@ -11,5 +11,6 @@ function curtir(){
             contador . textContent--;
             curtiu = false;
         }
-    
+ }
+});  
 
