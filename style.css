@@ -1,13 +1,13 @@
 body {
-    background-color: #f4f1ea;
-    color: #222222;
+    background-color: #eaebf4;
+    color: #bd4747;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #6b2d5c;
-    color: white;
+    background-color: #d455b4;
+    color: rgb(43, 15, 15);
     text-align: center;
     padding: 30px;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #6b2d5c;
+    color: #c03fa0;
 }
 
 p {
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: rgb(21, 94, 53);
     text-decoration: none;
     background-color: #9b4d83;
     padding: 10px 15px;
