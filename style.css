@@ -1,6 +1,11 @@
+root{
+    --cor-fundo: #f4f1ea;
+    --cor-texto: #222222;
+}
+
 body {
-    background-color: #eaebf4;
-    color: #bd4747;
+    background-color: var{--cor-fundo};
+    color: var(--cor-texto);
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -66,7 +71,7 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: #555555;
+    color: #555555;.
     margin-top: 8px;
 }
 
