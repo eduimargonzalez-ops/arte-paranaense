@@ -79,7 +79,7 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: #555555;.
+    color: var(--cor-lengenda);
     margin-top: 8px;
 }
 
@@ -89,6 +89,7 @@ figcaption {
     margin: 15px 0;
     border-left: 6px solid var(--cor-principal);
     border-radius: 10px;
+    flex: 1 1 300px;
 }
 
 .card h3 {
