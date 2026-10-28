@@ -14,3 +14,10 @@ function curtir(){
  }
 });  
 
+const btnTema = document.querySelector(".btn-tema");
+    btnTema.addEvenlistener("click", mudarTema);
+    function mudarTema(){
+        document.body.classList.toggle("tema-escuro");
+    }
+    
+
